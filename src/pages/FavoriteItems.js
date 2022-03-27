@@ -5,6 +5,7 @@ function FavoriteItems() {
   return <section>
     <SearchBar />
     <BooksList />
+    Fovorites
   </section>
 }
 
